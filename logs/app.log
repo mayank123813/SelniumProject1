@@ -1,0 +1,1962 @@
+2026-03-05 11:44:31 [main] INFO  BaseClass - config.properties file loaded
+2026-03-05 11:44:36 [main] INFO  BaseClass - chromdriver object created
+2026-03-05 11:44:51 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-05 11:44:51 [main] TRACE BaseClass - this i trace message
+2026-03-05 11:44:51 [main] DEBUG BaseClass - this is debug message
+2026-03-05 11:44:51 [main] WARN  BaseClass - this is a warn message
+2026-03-05 11:44:54 [main] INFO  BaseClass - chromdriver object created
+2026-03-05 11:45:20 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-05 11:45:20 [main] TRACE BaseClass - this i trace message
+2026-03-05 11:45:20 [main] DEBUG BaseClass - this is debug message
+2026-03-05 11:45:20 [main] WARN  BaseClass - this is a warn message
+2026-03-05 11:45:23 [main] INFO  BaseClass - chromdriver object created
+2026-03-05 11:45:40 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-05 11:45:40 [main] TRACE BaseClass - this i trace message
+2026-03-05 11:45:40 [main] DEBUG BaseClass - this is debug message
+2026-03-05 11:45:40 [main] WARN  BaseClass - this is a warn message
+2026-03-05 11:46:23 [main] INFO  BaseClass - chromdriver object created
+2026-03-05 11:46:36 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-05 11:46:36 [main] TRACE BaseClass - this i trace message
+2026-03-05 11:46:36 [main] DEBUG BaseClass - this is debug message
+2026-03-05 11:46:36 [main] WARN  BaseClass - this is a warn message
+2026-03-05 11:46:54 [main] INFO  BaseClass - chromdriver object created
+2026-03-05 11:47:08 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-05 11:47:08 [main] TRACE BaseClass - this i trace message
+2026-03-05 11:47:08 [main] DEBUG BaseClass - this is debug message
+2026-03-05 11:47:08 [main] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:19 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 09:56:30 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 09:56:30 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 09:56:30 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 09:56:30 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 09:56:35 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:56:35 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 09:56:35 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 09:56:35 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:35 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:36
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:41 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:33
+2026-03-07 09:56:42 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:56:42 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 09:56:42 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 09:56:42 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:42 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:34
+2026-03-07 09:56:43 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 09:56:45 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:56:45 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 09:56:45 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 09:56:45 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:45 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 09:56:46 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:56:48 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 09:56:51 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 09:56:59 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:56:59 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 09:56:59 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 09:56:59 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 09:56:59 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 09:57:00 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:57:04 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:23 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 09:59:27 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:27 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:29 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:30 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:32 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:59:32 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 09:59:32 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 09:59:32 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 09:59:32 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:33
+2026-03-07 09:59:41 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:59:41 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 09:59:41 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 09:59:41 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 09:59:41 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:36
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:34
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 09:59:42 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 09:59:43 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:59:44 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 09:59:45 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 09:59:47 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 09:59:51 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 09:59:51 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 09:59:51 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 09:59:51 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 09:59:51 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 09:59:53 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 09:59:57 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:00:05 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:00:08 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:01:24 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:01:28 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:01:28 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:01:28 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:01:30 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:34
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:01:32 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:36
+2026-03-07 10:01:38 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:01:38 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:01:38 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:01:38 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:01:38 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:01:39 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:33
+2026-03-07 10:01:41 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:01:43 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:01:44 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:01:46 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:01:53 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:01:53 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:01:53 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:01:53 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:01:53 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:01:55 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:01:58 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:02:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:02:05 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:02:05 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:02:05 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:02:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:02:07 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:02:08 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:04:29 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:04:33 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:04:33 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:04:34 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:04:36 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:33
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:04:39 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:36
+2026-03-07 10:04:46 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:04:47 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:34
+2026-03-07 10:04:48 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:04:49 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:04:50 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:04:54 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:05:05 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:05:10 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:35
+2026-03-07 10:05:18 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:05:21 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:05:21 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:05:26 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with class name:oxd-userdropdown-link
+2026-03-07 10:08:36 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:08:41 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:08:41 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:08:41 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:08:43 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:08:47 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:08:47 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:08:47 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:08:47 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:08:47 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:08:52 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:08:52 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 10:08:52 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:08:52 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:08:52 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:08:56 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:08:56 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 10:08:56 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:08:56 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:08:56 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:08:58 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:08:58 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 10:08:58 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:08:58 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:08:58 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:43
+2026-03-07 10:08:59 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:09:03 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:09:03 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:09:08 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:09:12 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:09:21 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:09:31 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:09:41 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:09:41 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:09:41 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:09:41 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:09:41 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:09:42 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:09:44 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:09:44 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:09:48 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:09:53 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:09:54 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:09:56 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:09:58 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:09:58 [TestNG-test-orangeHRMTest1-2] TRACE BaseClass - this i trace message
+2026-03-07 10:09:58 [TestNG-test-orangeHRMTest1-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:09:58 [TestNG-test-orangeHRMTest1-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:09:58 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - action driver  initialized for thread:138
+2026-03-07 10:09:59 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-4] TRACE BaseClass - this i trace message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - action driver  initialized for thread:140
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:10:04 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:10:05 [TestNG-test-orangeHRMTest1-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:10:05 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-1] TRACE BaseClass - this i trace message
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:10:08 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - action driver  initialized for thread:137
+2026-03-07 10:10:11 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:10:21 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:10:27 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:10:39 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:10:39 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:10:39 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:10:39 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:10:39 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:10:41 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:10:42 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:10:42 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:10:46 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:13:04 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:13:08 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:13:08 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:13:10 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:13:11 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:13:13 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:13:13 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 10:13:13 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:13:13 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:13:13 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:13:23 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:13:23 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 10:13:23 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:13:23 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:13:23 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:13:24 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:13:24 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:13:24 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:13:24 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:13:24 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:13:25 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:13:27 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:43
+2026-03-07 10:13:28 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:13:30 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:13:31 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:13:43 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:13:49 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:04 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:04 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:14:04 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:04 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:04 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:14:06 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:14:07 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:14:07 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:14:10 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:14:15 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:16 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:17 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-2] TRACE BaseClass - this i trace message
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:19 [TestNG-test-orangeHRMTest1-2] INFO  BaseClass - action driver  initialized for thread:138
+2026-03-07 10:14:20 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:20 [TestNG-test-orangeHRMTest1-1] TRACE BaseClass - this i trace message
+2026-03-07 10:14:20 [TestNG-test-orangeHRMTest1-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:20 [TestNG-test-orangeHRMTest1-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:20 [TestNG-test-orangeHRMTest1-1] INFO  BaseClass - action driver  initialized for thread:137
+2026-03-07 10:14:22 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:22 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:14:22 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:22 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:22 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] TRACE BaseClass - this i trace message
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] INFO  BaseClass - action driver  initialized for thread:140
+2026-03-07 10:14:27 [TestNG-test-orangeHRMTest1-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:14:30 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:14:30 [TestNG-test-orangeHRMTest1-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:14:32 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:14:36 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:43 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:43 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:14:43 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:43 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:43 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:14:44 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:14:50 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] TRACE BaseClass - this i trace message
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] INFO  BaseClass - action driver  initialized for thread:139
+2026-03-07 10:14:58 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:15:01 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:15:01 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:15:06 [TestNG-test-orangeHRMTest1-3] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:17:40 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:17:47 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:17:48 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:17:50 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-03-07 10:17:50 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:17:56 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:17:56 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-07 10:17:56 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:17:56 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:17:56 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:17:59 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:17:59 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:17:59 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:17:59 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:17:59 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:18:00 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:02 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:18:08 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:10 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:10 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-03-07 10:18:10 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:10 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:10 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:43
+2026-03-07 10:18:11 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:18:13 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:18:17 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:18:22 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:26 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:26 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-03-07 10:18:26 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:26 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:26 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:18:31 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:18:34 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:34 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:42 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:42 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:18:42 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:42 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:42 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:18:42 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:42 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:18:42 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:42 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:42 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:18:44 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:45 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:18:53 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:18:53 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:18:53 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:18:53 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:18:53 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:18:56 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:00 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:00 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:19:00 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:00 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:00 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:19:02 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:07 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:07 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:19:07 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:07 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:07 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:19:08 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:12 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:19:14 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:18 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:18 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:19:18 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:18 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:18 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:19:19 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:24 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:19:28 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:28 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:19:28 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:28 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:28 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:19:29 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:29 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:36 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:37 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:37 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:19:37 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:37 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:37 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:19:40 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:43 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:43 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:43 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:19:43 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:43 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:43 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:19:44 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:46 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:19:47 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:19:50 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:19:50 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:19:50 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:19:50 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:19:50 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:19:51 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:19:51 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with class name:oxd-userdropdown-link
+2026-03-07 10:19:53 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:19:53 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:19:55 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:19:57 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:20:00 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:20:06 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:20:06 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:20:06 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:20:06 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:20:06 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:20:07 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:20:10 [TestNG-tests-1] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:20:13 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:20:13 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:20:13 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:20:13 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:20:13 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:20:14 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:20:16 [TestNG-tests-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:20:53 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:20:58 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:20:59 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:14 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:14 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:21:14 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:14 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:14 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:21:17 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:18 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:18 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:21:18 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:18 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:18 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:21:21 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:25 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:25 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:21:25 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:25 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:25 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:21:27 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:36 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:36 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:21:36 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:36 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:36 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:21:38 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:39 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:39 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:21:39 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:39 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:39 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:21:40 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:21:42 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:21:45 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:47 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:47 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:21:47 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:47 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:47 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:21:49 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:21:50 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:21:52 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:21:52 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:21:52 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:21:52 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:21:52 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:21:53 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:21:54 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:21:58 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:22:03 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:22:03 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:22:03 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:22:03 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:22:03 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:22:04 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:22:05 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:22:05 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:22:05 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:22:05 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:22:05 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:22:06 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:22:08 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:22:08 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:22:11 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:22:12 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:22:17 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:22:19 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:22:19 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:22:19 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:22:19 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:22:19 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:22:20 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:22:22 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:22:22 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:22:25 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:22:25 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:22:25 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:22:25 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:22:25 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 10:22:25 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:22:27 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:22:28 [TestNG-tests-1] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:22:32 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:22:39 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:22:39 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:22:39 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:22:39 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:22:39 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:22:41 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:22:44 [TestNG-tests-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:34:11 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:34:14 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:34:22 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:34:22 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:34:22 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:34:22 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:34:22 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:34:25 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:34:32 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:34:32 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:34:32 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:34:32 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:34:32 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:34:34 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:34:42 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:34:42 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:34:42 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:34:42 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:34:42 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:34:44 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:34:44 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:34:46 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:34:54 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:34:54 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:34:54 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:34:54 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:34:54 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:34:54 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:34:59 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:35:10 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:35:10 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:35:10 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:35:10 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:35:10 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:35:10 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:35:12 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:35:13 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:35:15 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:35:20 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:35:27 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:35:27 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:35:27 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:35:27 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:35:27 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 10:35:28 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:35:31 [TestNG-tests-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:35:57 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 10:36:02 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:04 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:10 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:10 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:36:10 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:10 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:10 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:36:12 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:12 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:36:12 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:12 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:12 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:36:14 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:15 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:18 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:18 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:36:18 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:18 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:18 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:36:23 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:26 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:26 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:36:26 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:26 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:26 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:36:30 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:34 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:34 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:36:34 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:34 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:34 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:36:35 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:36:37 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:36:37 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:37 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:36:37 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:37 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:37 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:36:38 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:36:40 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 10:36:42 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:47 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:36:53 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:53 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:36:53 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:53 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:53 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:36:53 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:36:54 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:36:54 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:36:54 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:36:54 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:36:54 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:36:55 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:37:02 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:37:03 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:37:10 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:37:10 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:37:10 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:37:10 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:37:10 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:37:12 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:37:13 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:37:13 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:37:14 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:37:14 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:37:14 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:37:14 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:37:14 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:37:15 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:37:18 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:37:18 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 10:37:19 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 10:37:20 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 10:37:21 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 10:37:23 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 10:37:32 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:37:32 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 10:37:32 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 10:37:32 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 10:37:32 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-07 10:37:33 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:37:35 [TestNG-tests-1] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 10:37:37 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 10:37:37 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 10:37:37 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 10:37:37 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 10:37:37 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-07 10:37:38 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 10:37:40 [TestNG-tests-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 17:46:26 [TestNG-tests-1] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:46:26 [TestNG-tests-2] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:46:34 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:46:34 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:46:43 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:46:43 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:46:43 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:46:43 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:46:43 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:46:43 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:46:43 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:46:43 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:46:43 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:46:43 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:46:44 [TestNG-tests-1] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:46:44 [TestNG-tests-2] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:46:47 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:46:49 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:46:52 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:46:52 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:46:52 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:46:52 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:46:52 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:46:54 [TestNG-tests-1] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:46:57 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:47:00 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:00 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:47:00 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:00 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:00 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:47:01 [TestNG-tests-2] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:47:03 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:47:13 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:13 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:47:13 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:13 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:13 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:47:15 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:47:18 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 17:47:24 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:47:25 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:25 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:47:25 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:25 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:25 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:47:28 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:47:29 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 17:47:31 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:31 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:47:31 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:31 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:31 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:47:32 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:47:36 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:47:42 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:47:51 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:51 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:47:51 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:51 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:51 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:47:51 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:47:51 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:47:51 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:47:51 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:47:51 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:47:52 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:47:52 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:47:57 [TestNG-tests-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 17:47:58 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 17:47:59 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 17:48:00 [TestNG-tests-1] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:48:01 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:48:04 [TestNG-tests-1] INFO  BaseClass - chromdriver object created
+2026-03-07 17:48:12 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:48:12 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:48:12 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:48:12 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:48:12 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:48:14 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:48:17 [TestNG-tests-2] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 17:48:17 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 17:48:21 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 17:48:22 [TestNG-tests-2] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:48:25 [TestNG-tests-2] INFO  BaseClass - chromdriver object created
+2026-03-07 17:48:31 [TestNG-tests-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:48:31 [TestNG-tests-1] TRACE BaseClass - this i trace message
+2026-03-07 17:48:31 [TestNG-tests-1] DEBUG BaseClass - this is debug message
+2026-03-07 17:48:31 [TestNG-tests-1] WARN  BaseClass - this is a warn message
+2026-03-07 17:48:31 [TestNG-tests-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-07 17:48:33 [TestNG-tests-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:48:34 [TestNG-tests-1] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 17:48:40 [TestNG-tests-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:48:40 [TestNG-tests-2] TRACE BaseClass - this i trace message
+2026-03-07 17:48:40 [TestNG-tests-2] DEBUG BaseClass - this is debug message
+2026-03-07 17:48:40 [TestNG-tests-2] WARN  BaseClass - this is a warn message
+2026-03-07 17:48:40 [TestNG-tests-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-07 17:48:43 [TestNG-tests-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:48:44 [TestNG-tests-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-07 17:50:38 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:50:46 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:50:57 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:50:57 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:50:57 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:50:57 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:50:57 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:50:58 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:51:01 [main] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 17:51:01 [main] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 17:51:07 [main] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 17:51:16 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:51:20 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:51:40 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:51:40 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:51:40 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:51:40 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:51:40 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:51:41 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:51:43 [main] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 17:54:03 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:54:06 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:54:15 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:54:15 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:54:15 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:54:15 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:54:15 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:54:16 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:54:19 [main] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 17:54:22 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:54:29 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:54:29 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:54:29 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:54:29 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:54:29 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:54:32 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:54:36 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:54:52 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:54:52 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:54:52 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:54:52 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:54:52 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:54:53 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:54:56 [main] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 17:54:57 [main] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 17:55:06 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:55:10 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:55:26 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:55:26 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:55:26 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:55:26 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:55:26 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:55:27 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:55:29 [main] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-07 17:55:33 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:55:44 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:55:44 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:55:44 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:55:44 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:55:44 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:55:45 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:55:50 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:55:58 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:55:58 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:55:58 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:55:58 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:55:58 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:56:01 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:56:02 [main] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-07 17:56:02 [main] INFO  ActionDriver - clicked an element:element with text:manda user
+2026-03-07 17:56:11 [main] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-07 17:56:12 [main] INFO  BaseClass - config.properties file loaded
+2026-03-07 17:56:17 [main] INFO  BaseClass - chromdriver object created
+2026-03-07 17:56:24 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-07 17:56:24 [main] TRACE BaseClass - this i trace message
+2026-03-07 17:56:24 [main] DEBUG BaseClass - this is debug message
+2026-03-07 17:56:24 [main] WARN  BaseClass - this is a warn message
+2026-03-07 17:56:24 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-03-07 17:56:27 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-07 17:56:28 [main] INFO  ActionDriver - element is displayedunable to describe
+2026-03-12 15:38:30 [main] INFO  BaseClass - config.properties file loaded
+2026-03-12 15:38:48 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:38:48 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-12 15:39:22 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:39:22 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-12 15:39:22 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-12 15:39:22 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-12 15:39:22 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:33
+2026-03-12 15:39:24 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:39:32 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-12 15:39:53 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:39:53 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:39:53 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:39:53 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:39:53 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:32
+2026-03-12 15:39:56 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:39:57 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-12 15:40:14 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:40:38 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:40:38 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:40:38 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:40:38 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:40:38 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:32
+2026-03-12 15:40:39 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:40:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:41:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:41:58 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:41:58 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:41:58 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:41:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:32
+2026-03-12 15:42:00 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:42:11 [main] INFO  BaseClass - config.properties file loaded
+2026-03-12 15:42:27 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-12 15:42:55 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:42:55 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-12 15:42:55 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-12 15:42:55 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-12 15:42:55 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-12 15:42:56 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:42:59 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-12 15:43:08 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:43:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:43:29 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:43:29 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:43:29 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:43:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-12 15:43:32 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:43:32 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-12 15:43:36 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:44:03 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:44:03 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:44:03 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:44:03 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:44:03 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-12 15:44:04 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:44:10 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 15:44:43 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-12 15:44:43 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-12 15:44:43 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-12 15:44:43 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-12 15:44:43 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-03-12 15:44:44 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-12 15:44:50 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-12 15:44:50 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:testar U
+2026-03-12 15:44:55 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-12 16:32:04 [main] INFO  BaseClass - config.properties file loaded
+2026-03-12 16:32:10 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 16:32:10 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-12 16:33:28 [main] INFO  BaseClass - config.properties file loaded
+2026-03-12 16:33:34 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-12 16:33:34 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-13 10:51:55 [main] INFO  BaseClass - config.properties file loaded
+2026-03-13 10:52:02 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-13 10:52:02 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-13 10:52:15 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-13 10:52:17 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-13 10:52:18 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-13 10:52:20 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-13 10:52:20 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-13 10:52:26 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-13 10:52:37 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-13 10:52:37 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-13 10:52:37 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-13 10:52:37 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-13 10:52:37 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-13 10:52:38 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-13 10:52:45 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-13 10:52:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-13 10:52:55 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-13 10:52:55 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-13 10:52:55 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-13 10:52:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-03-13 10:52:56 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-13 10:52:58 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-13 10:53:00 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:satish burugudda burugudda
+2026-03-13 10:53:02 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-03-14 18:48:50 [main] INFO  BaseClass - config.properties file loaded
+2026-03-14 18:49:06 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-03-14 18:49:06 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-03-14 18:49:27 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-03-14 18:49:28 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-14 18:49:28 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-14 18:49:30 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-03-14 18:49:32 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - element is displayedunable to describe
+2026-03-14 18:49:37 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-14 18:49:49 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-14 18:49:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-03-14 18:50:08 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-03-14 18:50:08 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-03-14 18:50:08 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-03-14 18:50:08 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-03-14 18:50:08 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-03-14 18:50:09 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-03-14 18:50:11 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-03-14 18:50:12 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Anton Ghaly
+2026-03-14 18:50:17 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-04-08 06:24:03 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:26:21 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:26:46 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:29:25 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:31:35 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:32:33 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:35:10 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:40:47 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:41:11 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:41:24 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:45:12 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:46:02 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:47:53 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 06:56:11 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:03:36 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:04:01 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:25:48 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:25:54 [main] INFO  BaseClass - chromdriver object created
+2026-04-08 07:26:00 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:26:00 [main] TRACE BaseClass - this i trace message
+2026-04-08 07:26:00 [main] DEBUG BaseClass - this is debug message
+2026-04-08 07:26:00 [main] WARN  BaseClass - this is a warn message
+2026-04-08 07:26:00 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-08 07:30:34 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:30:40 [main] INFO  BaseClass - chromdriver object created
+2026-04-08 07:30:45 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:30:45 [main] TRACE BaseClass - this i trace message
+2026-04-08 07:30:45 [main] DEBUG BaseClass - this is debug message
+2026-04-08 07:30:45 [main] WARN  BaseClass - this is a warn message
+2026-04-08 07:30:45 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-08 07:32:53 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:32:58 [main] INFO  BaseClass - chromdriver object created
+2026-04-08 07:33:02 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:33:02 [main] TRACE BaseClass - this i trace message
+2026-04-08 07:33:02 [main] DEBUG BaseClass - this is debug message
+2026-04-08 07:33:02 [main] WARN  BaseClass - this is a warn message
+2026-04-08 07:33:02 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-08 07:33:05 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:37:15 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:37:18 [main] INFO  BaseClass - chromdriver object created
+2026-04-08 07:37:23 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:37:23 [main] TRACE BaseClass - this i trace message
+2026-04-08 07:37:23 [main] DEBUG BaseClass - this is debug message
+2026-04-08 07:37:23 [main] WARN  BaseClass - this is a warn message
+2026-04-08 07:37:23 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-08 07:37:26 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:37:27 [main] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-04-08 07:37:28 [main] INFO  ActionDriver - clicked an element:element with text:Mayank Kumar
+2026-04-08 07:37:32 [main] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-04-08 07:38:45 [main] INFO  BaseClass - config.properties file loaded
+2026-04-08 07:38:50 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-04-08 07:38:54 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:38:56 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-04-08 07:38:59 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-08 07:39:03 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:39:03 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-08 07:39:03 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-08 07:39:03 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-08 07:39:03 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-04-08 07:39:04 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:39:05 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-04-08 07:39:08 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-08 07:39:12 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:39:12 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-08 07:39:12 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-08 07:39:12 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-08 07:39:12 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-04-08 07:39:13 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:39:17 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-08 07:39:21 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-08 07:39:21 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-08 07:39:21 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-08 07:39:21 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-08 07:39:21 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:39
+2026-04-08 07:39:22 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-08 07:39:24 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-04-08 07:39:25 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Mayank Kumar
+2026-04-08 07:39:28 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-04-11 03:02:24 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 03:02:32 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 03:02:41 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 03:02:41 [main] TRACE BaseClass - this i trace message
+2026-04-11 03:02:41 [main] DEBUG BaseClass - this is debug message
+2026-04-11 03:02:41 [main] WARN  BaseClass - this is a warn message
+2026-04-11 03:02:41 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 03:02:49 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 03:03:01 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 03:03:04 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 03:03:45 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 03:03:52 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 03:03:57 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 03:03:57 [main] TRACE BaseClass - this i trace message
+2026-04-11 03:03:57 [main] DEBUG BaseClass - this is debug message
+2026-04-11 03:03:57 [main] WARN  BaseClass - this is a warn message
+2026-04-11 03:03:57 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 03:03:59 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 03:04:13 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 03:04:15 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:23:05 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:23:11 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:23:19 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:23:19 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:23:19 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:23:19 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:23:19 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:24:22 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:24:27 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:25:09 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:25:09 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:25:09 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:25:09 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:25:09 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:25:33 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:26:01 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:26:03 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:29:49 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:29:54 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:30:00 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:30:00 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:30:00 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:30:00 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:30:00 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:30:02 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:30:17 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:30:19 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:31:23 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:31:29 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:31:34 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:31:34 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:31:34 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:31:34 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:31:34 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:31:36 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:31:48 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:31:50 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:34:30 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:34:39 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:34:44 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:34:44 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:34:44 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:34:44 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:34:44 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:34:46 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:35:01 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:35:03 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:36:53 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:37:17 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:37:28 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:37:35 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:37:35 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:37:35 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:37:35 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:37:35 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:37:39 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:37:53 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:37:55 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:43:04 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:43:10 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:43:15 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:43:15 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:43:15 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:43:15 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:43:15 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:43:16 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:43:26 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:43:27 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:45:00 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:45:05 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:45:10 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:45:10 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:45:10 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:45:10 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:45:10 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:45:11 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:45:18 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:45:19 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:49:12 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:49:18 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:49:22 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:49:22 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:49:22 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:49:22 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:49:22 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:49:23 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:49:32 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:49:33 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 05:50:16 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 05:50:18 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 05:50:23 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 05:50:23 [main] TRACE BaseClass - this i trace message
+2026-04-11 05:50:23 [main] DEBUG BaseClass - this is debug message
+2026-04-11 05:50:23 [main] WARN  BaseClass - this is a warn message
+2026-04-11 05:50:23 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 05:50:24 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 05:50:31 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 05:50:32 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:02:31 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:02:37 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:02:41 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:02:41 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:02:41 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:02:41 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:02:41 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:02:44 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:02:50 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:02:53 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:03:25 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:03:27 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:03:31 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:03:31 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:03:31 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:03:31 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:03:31 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:03:33 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:03:41 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:03:42 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:04:25 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:04:28 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:04:33 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:04:33 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:04:33 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:04:33 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:04:33 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:04:34 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:04:40 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:04:41 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:04:59 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:05:04 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:05:09 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:05:09 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:05:09 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:05:09 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:05:09 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:05:10 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:05:18 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:05:20 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:12:43 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:12:48 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:12:53 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:12:53 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:12:53 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:12:53 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:12:53 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:12:56 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:13:01 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:13:02 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:13:26 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:13:31 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:13:36 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:13:41 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:13:41 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:13:41 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:13:41 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:13:41 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:13:42 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:13:49 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:13:50 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:19:00 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:19:05 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:19:09 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:19:09 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:19:09 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:19:09 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:19:09 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:19:11 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:19:18 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:19:19 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:19:33 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:19:35 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:19:39 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:19:39 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:19:39 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:19:39 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:19:39 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:19:41 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:19:48 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:19:49 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:21:33 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:21:38 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:21:43 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:21:43 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:21:43 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:21:43 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:21:43 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:21:44 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:21:51 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:21:53 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:21:54 [main] INFO  ActionDriver - actual textMayankas well asMayankare equal
+2026-04-11 06:21:54 [main] INFO  ActionDriver - actual textKumaras well asKumarare equal
+2026-04-11 06:22:20 [main] INFO  BaseClass - config.properties file loaded
+2026-04-11 06:22:23 [main] INFO  BaseClass - chromdriver object created
+2026-04-11 06:22:27 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-11 06:22:27 [main] TRACE BaseClass - this i trace message
+2026-04-11 06:22:27 [main] DEBUG BaseClass - this is debug message
+2026-04-11 06:22:27 [main] WARN  BaseClass - this is a warn message
+2026-04-11 06:22:27 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-11 06:22:28 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-11 06:22:35 [main] INFO  ActionDriver - clicked an element:element with text:PIM
+2026-04-11 06:22:36 [main] INFO  ActionDriver - clicked an element:element with text:Search
+2026-04-11 06:22:37 [main] INFO  ActionDriver - actual textMayankas well asMayankare equal
+2026-04-11 06:22:37 [main] INFO  ActionDriver - actual textKumaras well asKumarare equal
+2026-04-26 11:52:56 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 11:53:02 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 11:53:03 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 11:53:09 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:53:09 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 11:53:09 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 11:53:09 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 11:53:09 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 11:53:10 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:53:10 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 11:53:10 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 11:53:10 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 11:53:10 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 11:53:11 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 11:53:19 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:53:19 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 11:53:19 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 11:53:19 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 11:53:19 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 11:53:21 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 11:53:29 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:53:29 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 11:53:29 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 11:53:29 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 11:53:29 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 11:53:53 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 11:54:12 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 11:54:25 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 11:54:33 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:54:33 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 11:54:33 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 11:54:33 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 11:54:33 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 11:55:15 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 11:55:50 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 11:55:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:55:58 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 11:55:58 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 11:55:58 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 11:55:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 11:56:41 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 11:57:03 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 11:57:11 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 11:57:11 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 11:57:11 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 11:57:11 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 11:57:11 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 11:57:54 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 12:00:33 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:00:38 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 12:00:40 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 12:00:50 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:40
+2026-04-26 12:00:54 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:01:06 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:01:06 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 12:01:06 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 12:01:06 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 12:01:06 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:41
+2026-04-26 12:01:11 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:01:26 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:01:32 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 12:01:35 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:01:44 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:01:44 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 12:01:44 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 12:01:44 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 12:01:44 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 12:01:46 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:01:46 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 12:01:46 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 12:01:46 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 12:01:46 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:43
+2026-04-26 12:01:49 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:02:01 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:02:01 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 12:02:01 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 12:02:01 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 12:02:01 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:43
+2026-04-26 12:02:03 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 12:02:15 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:02:15 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 12:02:15 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 12:02:15 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 12:02:15 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:43
+2026-04-26 12:02:39 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 12:02:51 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:02:51 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 12:02:51 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 12:02:51 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 12:02:51 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 12:03:43 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 12:03:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:03:55 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 12:03:55 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 12:03:55 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 12:03:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 12:04:47 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 12:04:59 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:04:59 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 12:04:59 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 12:04:59 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 12:04:59 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 12:09:58 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:10:01 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:10:13 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:10:13 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:10:13 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:10:13 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:10:13 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:17:27 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:17:32 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:17:37 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:17:37 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:17:37 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:17:37 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:17:37 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:20:07 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:20:10 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:20:15 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:20:15 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:20:15 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:20:15 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:20:15 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:20:16 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 12:20:26 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 12:25:28 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:25:32 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:25:36 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:25:36 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:25:36 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:25:36 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:25:36 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:25:37 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 12:25:47 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 12:34:43 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:34:46 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 12:34:50 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:34:51 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:34:55 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:34:55 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:34:55 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:34:55 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:34:55 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:34:55 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:34:55 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:34:55 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:34:55 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:34:55 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:34:57 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 12:34:57 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 12:34:59 [main] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-04-26 12:35:01 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 12:35:05 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 12:35:05 [main] TRACE BaseClass - this i trace message
+2026-04-26 12:35:05 [main] DEBUG BaseClass - this is debug message
+2026-04-26 12:35:05 [main] WARN  BaseClass - this is a warn message
+2026-04-26 12:35:05 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 12:35:07 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 12:35:08 [main] INFO  ActionDriver - element is displayedelement with text:Invalid credentials
+2026-04-26 12:35:17 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:14:41 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:14:46 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:14:54 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:14:54 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:14:54 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:14:54 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:14:54 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:15:37 [main] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 13:17:29 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:17:32 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:17:40 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:17:40 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:17:40 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:17:40 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:17:40 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:18:23 [main] INFO  ActionDriver - clicked an element:element with id:reload-button
+2026-04-26 13:30:32 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:30:36 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:30:43 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:30:43 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:30:43 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:30:43 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:30:43 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:30:43 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:30:54 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:34:40 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:34:49 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:34:54 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:34:54 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:34:54 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:34:54 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:34:54 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:34:58 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:35:08 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:35:49 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:35:52 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:35:56 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:35:56 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:35:56 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:35:56 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:35:56 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:35:57 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:36:00 [main] INFO  ActionDriver - element is displayedelement with text:Admin
+2026-04-26 13:36:01 [main] INFO  ActionDriver - clicked an element:element with text:Mayank Kumar
+2026-04-26 13:36:05 [main] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-04-26 13:36:40 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:36:45 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:36:49 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:36:49 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:36:49 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:36:49 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:36:49 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:36:50 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:37:02 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:42:20 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:42:26 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:42:30 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:42:30 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:42:30 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:42:30 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:42:30 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:42:33 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:42:44 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:44:28 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:44:31 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:44:35 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:44:35 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:44:35 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:44:35 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:44:35 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:44:35 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:44:38 [main] INFO  LoginPageTest - URL: http://localhost/orangehrm/web/index.php/dashboard/index
+2026-04-26 13:44:48 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 13:48:58 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 13:49:02 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 13:49:06 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 13:49:06 [main] TRACE BaseClass - this i trace message
+2026-04-26 13:49:06 [main] DEBUG BaseClass - this is debug message
+2026-04-26 13:49:06 [main] WARN  BaseClass - this is a warn message
+2026-04-26 13:49:06 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 13:49:07 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 13:49:10 [main] INFO  ActionDriver - element is displayedelement with class name:oxd-text oxd-text--span oxd-main-menu-item--name
+2026-04-26 14:03:09 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:03:15 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:03:19 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:03:19 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:03:19 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:03:19 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:03:19 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:03:22 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:03:24 [main] INFO  ActionDriver - clicked an element:element with class name:oxd-userdropdown-tab
+2026-04-26 14:03:27 [main] INFO  ActionDriver - clicked an element:element with text:Logout
+2026-04-26 14:03:40 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:03:43 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:03:47 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:03:47 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:03:47 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:03:47 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:03:47 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:03:50 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:03:52 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:03:56 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:03:56 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:03:56 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:03:56 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:03:56 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:03:57 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:05:04 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:05:15 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:06:54 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:06:57 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:07:01 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:07:01 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:07:01 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:07:01 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:07:01 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:07:02 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:07:06 [main] INFO  ActionDriver - element is displayedunable to describe
+2026-04-26 14:11:15 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:11:20 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:11:24 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:11:24 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:11:24 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:11:24 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:11:24 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:11:25 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:11:25 [main] INFO  ActionDriver - waiting for left side bar
+2026-04-26 14:11:28 [main] INFO  ActionDriver - element is displayedunable to describe
+2026-04-26 14:16:01 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:16:09 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:16:14 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:16:14 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:16:14 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:16:14 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:16:14 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:16:14 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:16:14 [main] INFO  ActionDriver - waiting for left side bar
+2026-04-26 14:16:17 [main] INFO  ActionDriver - element is displayedunable to describe
+2026-04-26 14:25:14 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:25:23 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:25:30 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:25:30 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:25:30 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:25:30 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:25:30 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:25:39 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:25:39 [main] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 14:25:41 [main] INFO  ActionDriver - element is displayedunable to describe
+2026-04-26 14:28:56 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:29:01 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:29:06 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:29:06 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:29:06 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:29:06 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:29:06 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:29:07 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:29:07 [main] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 14:29:35 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:29:42 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:29:46 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:29:46 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:29:46 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:29:46 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:29:46 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:29:51 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:32:07 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:32:16 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:32:16 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:32:20 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:32:20 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:32:20 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:32:20 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:32:20 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:32:22 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:32:23 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:32:33 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:32:38 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:32:43 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:32:43 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:32:43 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:32:43 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:32:43 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:32:48 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:35:40 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:35:45 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:35:50 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:35:50 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:35:50 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:35:50 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:35:50 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:35:56 [main] INFO  ActionDriver - clicked an element:element with text:Login
+2026-04-26 14:44:12 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:44:16 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:44:21 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:44:21 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:44:21 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:44:21 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:44:21 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:44:22 [main] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:45:49 [main] INFO  DBConnection - start db connection
+2026-04-26 14:45:49 [main] INFO  DBConnection - db connection success
+2026-04-26 14:45:49 [main] INFO  DBConnection - Executing query SELECT emp_firstname,emp_middle_name,emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-04-26 14:45:49 [main] INFO  DBConnection - query executed
+2026-04-26 14:47:31 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:47:35 [main] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:37 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 14:47:41 [main] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:41 [main] TRACE BaseClass - this i trace message
+2026-04-26 14:47:41 [main] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:41 [main] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:41 [main] INFO  BaseClass - action driver  initialized for thread:3
+2026-04-26 14:47:44 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:44 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:46 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:49 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:43
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:47:50 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 14:47:51 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:51 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 14:47:51 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:51 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:51 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 14:47:52 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:47:53 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:53 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-04-26 14:47:53 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:53 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:53 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 14:47:54 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 14:47:57 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text: Invalid credentials
+2026-04-26 14:47:59 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:47:59 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 14:47:59 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 14:47:59 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 14:47:59 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 14:48:00 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:48:02 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 14:48:07 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:48:07 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 14:48:07 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 14:48:07 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 14:48:07 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 14:48:08 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:48:11 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text: Invalid credentials
+2026-04-26 14:48:15 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 14:48:19 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:48:19 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 14:48:19 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 14:48:19 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 14:48:19 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 14:48:20 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:48:27 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 14:48:31 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 14:48:31 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 14:48:31 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 14:48:31 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 14:48:31 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:42
+2026-04-26 14:48:36 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 14:48:36 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 14:48:38 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with class name: oxd-userdropdown-tab
+2026-04-26 14:48:43 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Logout
+2026-04-26 14:49:26 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - start db connection
+2026-04-26 14:49:26 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - db connection success
+2026-04-26 14:49:26 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - Executing query SELECT emp_firstname,emp_middle_name,emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-04-26 14:49:26 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - query executed
+2026-04-26 17:16:31 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 17:16:38 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 17:16:46 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:46 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:47 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:49 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:49 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:49 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:52 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:53 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:48
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:46
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:55 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:47
+2026-04-26 17:16:57 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:57 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-04-26 17:16:57 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:57 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:57 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:47
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 17:16:58 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-04-26 17:17:01 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:46
+2026-04-26 17:17:06 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:17:06 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 17:17:06 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 17:17:06 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 17:17:06 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:47
+2026-04-26 17:17:07 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:17:07 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 17:17:07 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 17:17:07 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 17:17:07 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:48
+2026-04-26 17:17:38 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:17:38 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:17:38 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 17:17:41 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:17:41 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 17:17:41 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:17:50 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:17:58 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement not present: By.xpath: //p[text()='Invalid credentials']
+2026-04-26 17:18:01 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement not present: By.xpath: //p[text()='Invalid credentials']
+2026-04-26 17:18:23 [TestNG-test-orangeHRMTest-4] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:19:21 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 17:19:21 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 17:19:29 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 17:19:47 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - start db connection
+2026-04-26 17:19:54 [TestNG-test-orangeHRMTest-4] INFO  DBConnection - start db connection
+2026-04-26 17:20:12 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:20:12 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with id: reload-button
+2026-04-26 17:20:32 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement not present: By.xpath: //p[text()='Invalid credentials']
+2026-04-26 17:20:32 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement not present: By.xpath: //p[text()='Invalid credentials']
+2026-04-26 22:14:34 [main] INFO  BaseClass - config.properties file loaded
+2026-04-26 22:14:54 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - chromdriver object created
+2026-04-26 22:14:55 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 22:14:55 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - chromdriver object created
+2026-04-26 22:14:58 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-04-26 22:15:03 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:03 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-04-26 22:15:03 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:03 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:03 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:46
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-4] TRACE BaseClass - this i trace message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-4] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-4] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-4] INFO  BaseClass - action driver  initialized for thread:47
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-2] TRACE BaseClass - this i trace message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-2] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-2] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-2] INFO  BaseClass - action driver  initialized for thread:45
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:05 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 22:15:07 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - chromdriver object created
+2026-04-26 22:15:07 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:07 [TestNG-test-orangeHRMTest-2] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 22:15:10 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:11 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text: Invalid credentials
+2026-04-26 22:15:12 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:12 [TestNG-test-orangeHRMTest-3] TRACE BaseClass - this i trace message
+2026-04-26 22:15:12 [TestNG-test-orangeHRMTest-3] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:12 [TestNG-test-orangeHRMTest-3] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:12 [TestNG-test-orangeHRMTest-3] INFO  BaseClass - action driver  initialized for thread:46
+2026-04-26 22:15:14 [TestNG-test-orangeHRMTest-3] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:16 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 22:15:20 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:20 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 22:15:20 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:20 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:20 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 22:15:24 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:26 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - element is displayedelement with text: Invalid credentials
+2026-04-26 22:15:32 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 22:15:36 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:36 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 22:15:36 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:36 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:36 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 22:15:37 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:41 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - chromdriver object created
+2026-04-26 22:15:45 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - webdriver initialized and browser maximized
+2026-04-26 22:15:45 [TestNG-test-orangeHRMTest-1] TRACE BaseClass - this i trace message
+2026-04-26 22:15:45 [TestNG-test-orangeHRMTest-1] DEBUG BaseClass - this is debug message
+2026-04-26 22:15:45 [TestNG-test-orangeHRMTest-1] WARN  BaseClass - this is a warn message
+2026-04-26 22:15:45 [TestNG-test-orangeHRMTest-1] INFO  BaseClass - action driver  initialized for thread:44
+2026-04-26 22:15:46 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Login
+2026-04-26 22:15:46 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - waiting for side bar to open
+2026-04-26 22:15:49 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with class name: oxd-userdropdown-tab
+2026-04-26 22:15:52 [TestNG-test-orangeHRMTest-1] INFO  ActionDriver - clicked an element:element with text: Logout
+2026-04-26 22:16:39 [TestNG-test-orangeHRMTest-3] INFO  DBConnection - start db connection
+2026-04-26 22:16:39 [TestNG-test-orangeHRMTest-3] INFO  DBConnection - db connection success
+2026-04-26 22:16:39 [TestNG-test-orangeHRMTest-3] INFO  DBConnection - Executing query SELECT emp_firstname,emp_middle_name,emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-04-26 22:16:39 [TestNG-test-orangeHRMTest-3] INFO  DBConnection - query executed
