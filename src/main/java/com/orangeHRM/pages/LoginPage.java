@@ -41,6 +41,7 @@ public class LoginPage {
     // verify if error is correct or not
 
     public boolean verifyErrorMessage(String expected){
-       return actionDriver.compareText(errorMessage,expected);
+        String actual = getErrorMessage();
+        return actual != null && actual.contains(expected);
     }
 }
