@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>untitled2</artifactId>
+    <artifactId>SelniumFramework</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -29,12 +29,7 @@
             <version>7.10.2</version>
             <scope>compile</scope>
         </dependency>
-
-        <dependency>
-            <groupId>commons-io</groupId>
-            <artifactId>commons-io</artifactId>
-            <version>2.15.1</version>
-        </dependency>
+        
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
