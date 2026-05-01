@@ -65,6 +65,7 @@ public class HomePage {
     public void clickOnPIMTab(){
         try {
             actionDriver.click(pimTab);
+            actionDriver.waitForPageLoad(10);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

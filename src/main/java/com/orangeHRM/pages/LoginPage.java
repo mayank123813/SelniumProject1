@@ -26,6 +26,8 @@ public class LoginPage {
         actionDriver.enterText(userNameField,userName);
         actionDriver.enterText(passwordField,password);
         actionDriver.click(loginButton);
+
+        actionDriver.waitForPageLoad(10);
     }
 
     //method to check if error message is diplayed

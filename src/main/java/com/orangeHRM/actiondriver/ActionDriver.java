@@ -36,7 +36,7 @@ public class ActionDriver extends BaseClass {
     // wait for element to be visiblity of element
     public void waitElementToBePresent(By by){
         try {
-            wait.until(ExpectedConditions.presenceOfElementLocated(by));
+            wait.until(ExpectedConditions.visibilityOfElementLocated(by));
         } catch (Exception e) {
             logger.error("element not visible:"+e.getMessage());
         }
